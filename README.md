@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Ajaypal Singh 👋
 
-<!--
-**ajaypalsinghtuli/ajaypalsinghtuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist and Team Lead with over 4 years of experience specializing in geospatial agriculture, machine learning, and computer vision. I focus on building end-to-end data pipelines, developing predictive models, and leading cross-functional teams to solve complex agricultural challenges.
 
-Here are some ideas to get you started:
+#### 🚀 What I Do
+* **Geospatial & Satellite Data:** Building automated pipelines for satellite data download, band extraction, and multi-spectral analysis to generate crop health mosaics.
+* **Machine Learning & AI:** Developing ML/CNN-based crop type classification models and YOLO-based object detection pipelines with real-time field monitoring.
+* **Conversational AI:** Designing AI chatbots using Postgres vector databases and prompt engineering for natural language querying of geospatial datasets.
+* **Project Leadership:** Coordinating end-to-end geospatial agriculture initiatives, aligning business objectives with tech requirements, and ensuring seamless deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Tools
+* **Languages:** Python, SQL
+* **AI/ML & Vision:** Machine Learning, Deep Learning, Computer Vision (OpenCV, YOLO), Prompt Engineering, Forecasting
+* **Geospatial Tech:** Remote Sensing, QGIS, GeoServer, Raster/Vector processing
+* **Engineering & MLOps:** Docker, API Development, Postman, Model Deployment
+
+#### 📊 Connect With Me & See My Work
+* 🏆 **Kaggle:** [ajaypalsinghlo](https://www.kaggle.com/ajaypalsinghlo)
+* 🎓 **Education:** B.Tech in Computer Science and Engineering, Punjabi University Patiala
