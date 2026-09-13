@@ -20,7 +20,6 @@ I am a Data Scientist and Team Lead with over 4 years of experience specializing
 
 #### 📈 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaypalsinghtuli&show_icons=true&theme=tokyonight" alt="Ajaypal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypalsinghtuli&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+![Ajaypal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaypalsinghtuli&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypalsinghtuli&layout=compact&theme=tokyonight)
