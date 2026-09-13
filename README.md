@@ -17,3 +17,10 @@ I am a Data Scientist and Team Lead with over 4 years of experience specializing
 #### 📊 Connect With Me & See My Work
 * 🏆 **Kaggle:** [ajaypalsinghlo](https://www.kaggle.com/ajaypalsinghlo)
 * 🎓 **Education:** B.Tech in Computer Science and Engineering, Punjabi University Patiala
+
+#### 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaypalsinghtuli&show_icons=true&theme=tokyonight" alt="Ajaypal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypalsinghtuli&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
