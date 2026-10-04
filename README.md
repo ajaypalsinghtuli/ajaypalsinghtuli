@@ -2,6 +2,7 @@
   <h1>Hi, I'm Ajaypal Singh 👋</h1>
   <h3>Data Scientist & AI Specialist | Geospatial Agriculture | MLOps</h3>
   <p><i>Transforming raw satellite data and complex imagery into actionable, scalable intelligence.</i></p>
+  <p>🌐 <b>Portfolio & Live Projects:</b> <a href="https://geomap.co.in">geomap.co.in</a></p>
 </div>
 
 ---
@@ -11,7 +12,7 @@
 I am a Data Scientist and Team Lead with **4+ years of experience** bridging the gap between advanced machine learning and real-world agricultural challenges. I specialize in building end-to-end data pipelines—from remote sensing and automated satellite ingestion to deploying computer vision models and conversational AI chatbots in production environments.
 
 ### 💡 Core Competencies
-* **Geospatial & Satellite Pipelines:** Designing automated frameworks for STAC API ingestion, multi-spectral band extraction, and large-scale raster/vector processing for crop health monitoring.
+* **Geospatial & Satellite Pipelines:** Designing automated pipelines to search and download satellite imagery, extracting multi-spectral bands, and building crop yield forecasting models using large-scale map data.
 * **Computer Vision & Deep Learning:** Training and deploying CNNs and YOLO-based architectures for real-time field monitoring, crop classification, and object detection.
 * **Generative AI & Prompt Engineering:** Architecting intelligent query systems using advanced prompt design, semantic search, and Postgres vector databases for natural language agricultural insights.
 * **Technical Leadership:** Coordinating cross-functional teams, aligning business objectives with technical architecture, and ensuring robust MLOps practices.
@@ -50,7 +51,7 @@ I am a Data Scientist and Team Lead with **4+ years of experience** bridging the
 ## 🔭 Featured Initiatives
 
 * **Real-Time YOLO11 Inference API:** Engineered an asynchronous, container-ready web application for dynamic multi-scale YOLO11 classification with top-5 confidence rendering.
-* **Automated Landsat STAC Pipeline:** Developed a cloud-native Python pipeline utilizing `pystac-client` to dynamically fetch, filter, and extract Level-2 surface reflectance imagery based on custom GeoJSON bounds.
+* **Automated Landsat Data Pipeline:** Developed a cloud-native Python application to dynamically search, filter, and download high-quality satellite imagery based on custom map boundaries provided by the user.
 * **Conversational AI for AgTech:** Integrated LLMs with PostGIS vector stores to allow non-technical stakeholders to query complex geospatial datasets using natural language.
 
 ---
@@ -65,6 +66,7 @@ I am a Data Scientist and Team Lead with **4+ years of experience** bridging the
 
 <div align="center">
   <b>Let's connect and build something impactful.</b><br><br>
+  <a href="https://geomap.co.in"><img src="https://img.shields.io/badge/Website-geomap.co.in-4CAF50?style=for-the-badge&logo=googleearth&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/ajaypal-singh-data"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/ajaypalsinghlo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 </div>
